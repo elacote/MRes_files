@@ -1,0 +1,18 @@
+"InputCategories","UserDefinedCategories","Type","CorrectedPvalues"
+"lightgreen","Gamma delta T cells__cells_markers","User",6.38940791384451e-15
+"turquoise","Neurons__cells_markers","User",6.60064261755219e-13
+"yellow","Fibroblasts__cells_markers","User",8.2438092809756e-11
+"turquoise","Interneurons__cells_markers","User",1.07750343798307e-07
+"turquoise","Rare Single Gene Mutation, Genetic Association__ASD_genes","User",6.68592166575309e-07
+"yellow","Smooth muscle cells__cells_markers","User",4.06576333102123e-05
+"yellow","Myofibroblasts__cells_markers","User",0.000110793608387464
+"turquoise","Retinal ganglion cells__cells_markers","User",0.000282500495697686
+"greenyellow","Ependymal cells__cells_markers","User",0.000790551973907801
+"purple","Rare Single Gene Mutation, Syndromic__ASD_genes","User",0.00146439401670243
+"turquoise","Enteric neurons__cells_markers","User",0.00192089923167038
+"lightgreen","Epithelial cells__cells_markers","User",0.0036044750328824
+"turquoise","Purkinje neurons__cells_markers","User",0.0109919419016368
+"turquoise","Trigeminal neurons__cells_markers","User",0.0147715930734663
+"yellow","Mesangial cells__cells_markers","User",0.0206569659444028
+"blue","Basal cells__cells_markers","User",0.0345281439537401
+"blue","Smooth muscle cells__cells_markers","User",0.0377239514239725
